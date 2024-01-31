@@ -1,0 +1,236 @@
+ Product details are as follows:
+                productId: 10000.
+    
+                productDisplayName: Palm Tree Girls Sp Jace Sko White Skirts.
+                
+                price: 649.
+    
+                variantName: SP JACE SKO.
+    
+                brandName: Palm Tree.
+    
+                ageGroup: Kids-Girls.
+    
+                gender: Women.
+    
+                productColors: White,NA
+    
+                Category:  Bottomwear,Casual Wear and Clearance,Casual Wear,Sale, Apparel - Bottomwear
+    
+                productDescription:  <p><strong>Wash Care</strong><br /> <span style="font-style: normal; font-weight: normal;">Machine Wash separately in cold water<br /> Use mild detergent<br /> Do not Bleach<br /> Avoid Soaking<br /> Remove promptly<br /> Line Dry inside out in shade<br /> Warm iron only<br /> Do Not Iron Directly on Print/embroidery</span></p>
+
+
+ Product details are as follows:
+                productId: 10001.
+    
+                productDisplayName: Palm Tree Kids Girls Sp Jema Skt Blue Skirts.
+                
+                price: 549.
+    
+                variantName: SP JEMA SKT.
+    
+                brandName: Palm Tree.
+    
+                ageGroup: Kids-Girls.
+    
+                gender: Women.
+    
+                productColors: Blue,NA
+    
+                Category:  Bottomwear,Casual Wear and Clearance,Casual Wear,Sale, Apparel - Bottomwear
+    
+                productDescription:  <p><strong>Wash Care</strong><br /> <span style="font-style: normal; font-weight: normal;">Machine Wash separately in cold water<br /> Use mild detergent<br /> Do not Bleach<br /> Avoid Soaking<br /> Remove promptly<br /> Line Dry inside out in shade<br /> Warm iron only<br /> Do Not Iron Directly on Print/embroidery</span></p>
+
+ Product details are as follows:
+                productId: 10002.
+    
+                productDisplayName: Palm Tree Kids Sp Jema Skt Blue Skirts.
+                
+                price: 549.
+    
+                variantName: SP JEMA SKT.
+    
+                brandName: Palm Tree.
+    
+                ageGroup: Kids-Girls.
+    
+                gender: Women.
+    
+                productColors: Blue,NA
+    
+                Category:  Bottomwear,Casual Wear and Clearance,Casual Wear,Sale, Apparel - Bottomwear
+    
+                productDescription:  <p><strong>Wash Care</strong><br /> <span style="font-style: normal; font-weight: normal;">Machine Wash separately in cold water<br /> Use mild detergent<br /> Do not Bleach<br /> Avoid Soaking<br /> Remove promptly<br /> Line Dry inside out in shade<br /> Warm iron only<br /> Do Not Iron Directly on Print/embroidery</span></p>
+
+
+ Product details are as follows:
+                productId: 10003.
+    
+                productDisplayName: Nike Women As Nike Eleme White T-Shirt.
+                
+                price: 2695.
+    
+                variantName: AS NIKE ELEME.
+    
+                brandName: Nike.
+    
+                ageGroup: Adults-Women.
+    
+                gender: Women.
+    
+                productColors: White,NA
+    
+                Category:  Tshirts,Sports Wear, Apparel - Topwear
+    
+                productDescription:  <p><strong>Composition</strong><br /> White high collared t-shirt made of 92% nylon and 8% spandex, has a half-length zipper, raglan sleeves with flat-seam design for range of motion and reduced irritation, and a reflective loop on centre-back neck to keep media-player cords out of the way<br /> <br /> <span style="font-style: normal; font-weight: bold;">Fitting<br /> </span><span style="font-style: normal; font-weight: normal;">Comfort<br /> <br /><strong> Wash care</strong><br /> Machine wash cold at 30 degrees with like colours<br /> Do not bleach<br /> Tumble dry low<br /> Remove immediately/do not allow to lay on itself when wet<br /> Cool iron, but do not iron on design<br /> Do not dry clean<br /> <br /> This cold-weather running shirt is made of soft, suede Dri-Fit fabric that wicks sweat away from the body to the fabric's surface, where it quickly evaporates. Spandex fibres allow it to stretch for better mobility and a comfortable, athletic fit. <br /> <br /> The Element Half-Zip features a fitted design that stays out of your way as you run. Ergonomic seams map the natural contours of your body to help reduce friction and chafing while providing great range of motion. A stand-up collar delivers extra warmth and protection when you need it, and mesh underarm vents increase airflow in this high-heat area to help you stay dry and comfortable. <br /> <br /> Rough on the weather, soft on you, the nike Element Half-Zip women's Running top helps you stay dry, comfortable and distraction-free from the first mile to the last. </span></p>
+
+
+ Product details are as follows:
+                productId: 10004.
+    
+                productDisplayName: Nike Men As 7 Sw Temp Grey Shorts.
+                
+                price: 1995.
+    
+                variantName: AS 7 SW TEMP.
+    
+                brandName: Nike.
+    
+                ageGroup: Adults-Men.
+    
+                gender: Men.
+    
+                productColors: Grey,Blue
+    
+                Category:  Sports Wear, Apparel - Bottomwear
+    
+                productDescription:  <p><span style="font-weight: bold;">Composition</span><br />Grey&nbsp;<a href='/men-shorts?src=desc' class='seolink'>shorts</a> made of 86% polyester and 14% spandex, has an elastic waist with interior drawcord and a mesh side panel<br /> <br /> <span style="font-style: normal; font-weight: bold;">Fitting<br /> </span><span style="font-style: normal; font-weight: normal;">Comfort<br /> <br /><strong> Wash care</strong><br /> Machine wash cold at 30 degrees with like colours<br /> Do not bleach<br /> Tumble dry low<br /> Remove immediately/do not allow to lay on itself when wet<br /> Cool iron, but do not iron on design<br /> Do not dry clean<br /> <br /> Scorers and defenders alike require maximum range of motion to lead their teams to victory, and they'll get plenty of it in these nike shorts. With sweat-wicking fabric and strategic ventilation, these shorts keep them focused on the big win.</span></p>
+
+
+ Product details are as follows:
+                productId: 10005.
+    
+                productDisplayName: Nike Men As Ss Trainin Blue T-Shirts.
+                
+                price: 1495.
+    
+                variantName: AS SS TRAININ.
+    
+                brandName: Nike.
+    
+                ageGroup: Adults-Men.
+    
+                gender: Men.
+    
+                productColors: Blue,Black
+    
+                Category:  Sports Wear, Apparel - Topwear
+    
+                productDescription:  <p style="text-align: justify;"><strong>Composition</strong><br />Blue T-shirt made of 100% polyester Dri-Fit fabric, has a round neck, short raglan sleeves, black panel on the front with diagonal grey mesh panel and blue panel towards the hemline, mesh panels on the sides, printed seal on the upper back neck and printed swoosh logo on the upper right chest <br /><br /><strong>Fitting</strong><br />Regular<br /><br /><strong>Wash care</strong><br />Machine wash cold with like colours<br />Do not bleach <br />Tumble dry on low<br />Cool iron only<br />Do not dry clean<br />Do not iron on print or embroidery<br /><br />Take your training to the next level in this blue T-shirt from nike. The mesh Dri-Fit fabric pulls sweat away from the skin to help keep you cool and comfortable, while the sporty design with the raglan sleeves gives an added edge. Team this with track pants and performance shoes so that you can train longer and better.</p>
+
+ Product details are as follows:
+                productId: 10006.
+    
+                productDisplayName: Nike Men AS T90 Black Tshirts.
+                
+                price: 1495.
+    
+                variantName: AS T90 SS TOP.
+    
+                brandName: Nike.
+    
+                ageGroup: Adults-Men.
+    
+                gender: Men.
+    
+                productColors: Black,White
+    
+                Category:  Sports Wear, Apparel - Topwear
+    
+                productDescription:  <p style="text-align: justify;"><strong>Composition</strong><br />Black T-shirt made of 65% cotton and 35% polyester, has a round ribbed neckline, short sleeves, grey panel detailing on the side seams, rubber print swoosh logo on the upper right chest and T90 transferred onto the upper left chest<br /><br /><strong>Fitting</strong><br />Regular<br /><br /><strong>Wash care</strong><br />Machine wash warm with like colours<br />Wash inside out<br />Do not bleach <br />Tumble dry on low<br />Warm iron<br />Do not dry clean<br /><br />Gear up for an aggressive game of football in this black T90 T-shirt from nike. The classic design is updated with grey panel detailing and bold T90 and nike logos, while the fabric keeps you fresh and comfortable during extended training sessions. Team it&nbsp; with track pants and performance shoes.</p>
+
+
+ Product details are as follows:
+                productId: 10007.
+    
+                productDisplayName: Nike Women As Trophy Swo White T-Shirts.
+                
+                price: 1095.
+    
+                variantName: AS TROPHY SWO.
+    
+                brandName: Nike.
+    
+                ageGroup: Adults-Women.
+    
+                gender: Women.
+    
+                productColors: White,Blue
+    
+                Category:  Tshirts,Sports Wear, Apparel - Topwear
+    
+                productDescription:  <p><strong>Composition</strong><br /> White round neck t-shirt with short sleeves, made of  100% cotton, has fabric tape detailing on the inseam of the neckline, graphic print on the front and nike swoosh printed near the hem<br /> <span style="font-style: normal; font-weight: normal;"><br /> </span><span style="font-style: normal; font-weight: bold;">Fitting<br /> </span><span style="font-style: normal; font-weight: normal;">Regular<br /> <br /><strong> Wash care</strong><br /> Machine wash in cold water at 30 degrees with like colours<br /> Do not use bleach or softeners<br /> Remove immediately<br /> Do not allow to lay on itself when wet<br /> Tumble dry low<br /> Cool iron<br /> Do not iron directly on print/trims/ logo<br /> Do not dry clean<br /> <br /> You know how they say, &ldquo;when in doubt, wear white&rdquo;.... This white t-shirt from nike takes this saying and makes it better by adding funky graphic print on the front! The multi coloured print is eye-catching and funky, which will make you stand out in a sea of people! Plus, the cotton fabric will keep you comfortable all day long. Team it with jeans or <a href='/men-shorts?src=desc' class='seolink'>shorts</a> and casual shoes to look fab.</span></p>
+
+ Product details are as follows:
+                productId: 10008.
+    
+                productDisplayName: Nike Men Town Navy Blue T-Shirts.
+                
+                price: 1045.
+    
+                variantName: TOWN CREW.
+    
+                brandName: Nike.
+    
+                ageGroup: Adults-Men.
+    
+                gender: Men.
+    
+                productColors: Navy Blue,Maroon
+    
+                Category:  Sports Wear, Apparel - Topwear
+    
+                productDescription:  <p><strong>Composition</strong><br /> Navy blue round neck t-shirt with short sleeves, made of  100% cotton, has fabric tape detailing on the inseam of the neckline, graphic print on the front, and nike Swoosh printed on the left sleeve<br /> <br /> <span style="font-style: normal; font-weight: bold;">Fitting<br /> </span><span style="font-style: normal; font-weight: normal;">Regular<br /> <br /><strong> Wash care</strong><br /> Machine wash in cold water at 30 degrees with like colours<br /> Do not use bleach or softeners<br /> Remove immediately<br /> Do not allow to lay on itself when wet<br /> Tumble dry low<br /> Cool iron<br /> Do not iron directly on print/trims/ logo<br /> Do not dry clean<br /> <br /> When you're in the mood to look casual and hip, try this navy blue t-shirt from nike. You just cannot go wrong in this tee, what with its clean silhouette and attractive graphic print. Perfect for all-day wear. Pair it with jeans or <a href='/men-shorts?src=desc' class='seolink'>shorts</a> and walk around in style.</span></p>
+
+ Product details are as follows:
+                productId: 10009.
+    
+                productDisplayName: Nike Men Town Round Red Neck T-Shirts.
+                
+                price: 1045.
+    
+                variantName: TOWN CREW.
+    
+                brandName: Nike.
+    
+                ageGroup: Adults-Men.
+    
+                gender: Men.
+    
+                productColors: Red,NA
+    
+                Category:  Sports Wear, Apparel - Topwear
+    
+                productDescription:  <p><strong>Composition</strong><br /> Red round neck t-shirt with short sleeves, made of  100% cotton, has fabric tape detailing on the inseam of the neckline, graphic print on the front and nike swoosh printed on the left sleeve<br /> <br /> <span style="font-style: normal; font-weight: bold;">Fitting<br /> </span><span style="font-style: normal; font-weight: normal;">Regular<br /> <br /><strong> Wash care</strong><br /> Machine wash in cold water at 30 degrees with like colours<br /> Do not use bleach or softeners<br /> Remove immediately<br /> Do not allow to lay on itself when wet<br /> Tumble dry low<br /> Cool iron<br /> Do not iron directly on print/trims/ logo<br /> Do not dry clean<br /> <br /> When you're in the mood to look casual and hip, try this red t-shirt from nike. You just cannot go wrong in this tee, what with its clean silhouette and attractive graphic print. Perfect for all-day wear. Pair it with jeans or <a href='/men-shorts?src=desc' class='seolink'>shorts</a> and walk around in style.</span></p>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">441200-063</div>
+
+ Product details are as follows:
+                productId: 10010.
+    
+                productDisplayName: Nike Men As Showdown F Black T-Shirts.
+                
+                price: 1895.
+    
+                variantName: AS SHOWDOWN F.
+    
+                brandName: Nike.
+    
+                ageGroup: Adults-Men.
+    
+                gender: Men.
+    
+                productColors: Black,Grey
+    
+                Category:  Tshirts,Sports Wear, Apparel - Topwear
+    
+                productDescription:  <p><strong>Composition</strong><br /> Black V-neck t-shirt with short sleeves, made of  88% polyester and 12% spandex, graphic print on the front, mesh panel at the back of the neck,  nike Swoosh printed on the left chest, brand tab appliqued at the hem, and engineered with Dri-Fit technology<br /> <span style="font-style: normal; font-weight: normal;"><br /> </span><span style="font-style: normal; font-weight: bold;">Fitting<br /> </span><span style="font-style: normal; font-weight: normal;">Regular<br /> <br /><strong> Wash care</strong><br /> Machine wash in cold water at 30 degrees with like colours<br /> Do not use bleach or softeners<br /> Remove immediately<br /> Do not allow to lay on itself when wet<br /> Tumble dry low<br /> Cool iron<br /> Do not iron directly on print/trims/ logo<br /> Donot dry clean<br /> <br /> Whether you're playing at Wimbledon or in your local park, this black t-shirt from nike will give you the comfort and flexibility you require during your matches. The mesh panel at the back ensures better breathability during games, and the eye-catching graphic print ensures that you are the centre of attention. Engineered with Nike's Dri Fit technology, it wicks away sweat to keep you dry and comfortable during the game. Team the tee with comfortable tracks or <a href='/men-shorts?src=desc' class='seolink'>shorts</a> when you're ruling the court, or with jeans for casual outings.</span></p>
