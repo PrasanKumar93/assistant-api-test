@@ -1,3 +1,13 @@
+# New Assistant API
+
+## Useful resources
+
+- [docs](https://platform.openai.com/docs/assistants/overview)
+- [api docs](https://platform.openai.com/docs/api-reference/assistants/createAssistant)
+- [free scrimba course](https://scrimba.com/learn/openaiassistants/introducing-the-assistants-api-cbGLgRA9)
+
+---
+
 ## Old RAG
 
 ![RAG](./images/old-rag.png)
@@ -13,6 +23,8 @@
 - **Vector Search in Redis**: Transform the standalone question into a vector and conduct a vector search in Redis.
 - **Combining Redis Results with OpenAI**: Utilize the results obtained from Redis, along with the original user query, and input them into OpenAI to generate a human-like answer.
 - **Conversation Memory Management**: Maintain a record of the entire user-AI interaction, preserving the context for any subsequent questions.
+
+---
 
 ## New Assistant API
 
@@ -38,23 +50,25 @@
 
 ## Application
 
+create .env file with following variables
+
+```js title=".env"
+OPEN_AI_API_KEY = "";
+REDIS_URL = "";
+```
+
 ```sh
-# first time
+# initial
 npm install
 
 npm start
 ```
 
-- Modify question in index file
+- Can modify question in index file
 
 ```ts title="assistant-api/src/index.ts"
 let sampleQuestion = "What brands do you have in store?";
-await testSampleUserQuestion(
-  sampleQuestion,
-  openAIInstance,
-  assistantId,
-  threadId
-);
+await testSampleUserQuestion(sampleQuestion,...);
 ```
 
 ```log title="Console log"
